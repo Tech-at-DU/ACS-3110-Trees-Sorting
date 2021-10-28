@@ -85,5 +85,5 @@ You can see the slides [here](https://docs.google.com/presentation/d/1tJPzVUgkbM
 [selection sort with Gypsy folk dance]: https://www.youtube.com/watch?v=0-W8OEwLebQ
 [insertion sort with Romanian folk dance]: https://www.youtube.com/watch?v=EdIKIf9mHk0
 
-[sorting starter code]: https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting/blob/master/Code/sorting_iterative.py
-[sorting unit tests]: https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting/blob/master/Code/sorting_test.py
+[sorting starter code]: https://github.com/Tech-at-DU/ACS-3110-Trees-Sorting/blob/master/Code/sorting_iterative.py
+[sorting unit tests]: https://github.com/Tech-at-DU/ACS-3110-Trees-Sorting/blob/master/Code/sorting_test.py

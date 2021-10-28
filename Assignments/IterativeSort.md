@@ -21,7 +21,7 @@ By completing this project, you should be able to…
 
 ## Starter Code
 
-Use the [iterative sorting challenge starter code](https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting/blob/master/Code/sorting_iterative.py) and [test file](https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting/blob/master/Code/sorting_test.py) to get started.
+Use the [iterative sorting challenge starter code](https://github.com/Tech-at-DU/ACS-3110-Trees-Sorting/blob/master/Code/sorting_iterative.py) and [test file](https://github.com/Tech-at-DU/ACS-3110-Trees-Sorting/blob/master/Code/sorting_test.py) to get started.
 
 ### Submission Requirements:
 1. Your submitted code should be in a new (public) repo on Github.
@@ -35,7 +35,7 @@ Use the [iterative sorting challenge starter code](https://github.com/Tech-at-DU
 1. Complete `is_sorted()`
 1. Complete `insertion_sort()`
 1. Complete `selection_sort()`
-1. Have each sorting function pass all tests in the [test file](https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting/blob/master/Code/sorting_test.py)
+1. Have each sorting function pass all tests in the [test file](https://github.com/Tech-at-DU/ACS-3110-Trees-Sorting/blob/master/Code/sorting_test.py)
 
 ## Rubric
 This project will be graded using the [CS 2.1 Coding Challenges Rubric](https://docs.google.com/document/d/1WZByGjbjZdXvdjUylzVywV-ndlQxM8NCoIlxlgaB3vQ/edit?usp=sharing)
