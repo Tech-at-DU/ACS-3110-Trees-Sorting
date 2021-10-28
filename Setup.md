@@ -1,6 +1,6 @@
 ## Repository Setup Instructions
 
-The course's *upstream* repository (located at `https://github.com/Make-School-Courses/CS-2.1-Trees-Sorting`) contains course materials including the schedule, class topics, challenges, starter code, unit tests, slides, and links to resources.
+The course's *upstream* repository (located at `https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting`) contains course materials including the schedule, class topics, challenges, starter code, unit tests, slides, and links to resources.
 It will be updated throughout the course, so you will need to regularly *pull* from it to get new materials.
 (Note that you cannot *push* to the course's upstream repository.)
 However, you can *clone* this repo to get upstream changes and also push your code to your own repo.
@@ -17,7 +17,7 @@ Set up your local clone of this course repo on your computer.
   `cd ~/MakeSchool/Courses` (or something similar for your folders)
 
   - Then run this command to *clone* the course repo:
-  `git clone https://github.com/Make-School-Courses/CS-2.1-Trees-Sorting.git`
+  `git clone https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting.git`
 
   - Now navigate into the new folder Git just created:
   `cd CS-2.1-Trees-Sorting`
@@ -39,7 +39,7 @@ Set up your local clone of this course repo on your computer.
 Connect your local clone of this course repo to the *upstream* repo on GitHub.
 
 1. Add this course's upstream repo as another *remote* to your local repo with:
-`git remote add upstream https://github.com/Make-School-Courses/CS-2.1-Trees-Sorting.git`
+`git remote add upstream https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting.git`
 
 1. Verify that you have two remotes: `origin` (with your username in the URL) and `upstream` (with `Make-School-Courses`):
 `git remote -v`

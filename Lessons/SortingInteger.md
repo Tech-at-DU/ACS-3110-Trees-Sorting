@@ -6,7 +6,7 @@
 
 ### Slides
 
-You can find the slides [here](https://docs.google.com/presentation/d/1tBUL_2bLyKCrt-BU4cE_Dum-H03n-qvthJOKJfhYYX8/edit#slide=id.p)
+You can find the slides [here](https://docs.google.com/presentation/d/1fsOjpAKW2Njb7QJe4N34lWa-9TeaAHIqXkcZmn6l-Uo/edit#slide=id.p)
 
 ### Resources
 - Play with VisuAlgo's [interactive sorting visualizations][VisuAlgo sorting] including [counting sort][VisuAlgo counting sort] and [radix sort][VisuAlgo radix sort]

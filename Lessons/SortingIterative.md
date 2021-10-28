@@ -2,12 +2,12 @@
 
 ### Slides
 
-You can see the slides [here](https://docs.google.com/presentation/d/1zDfRhO0aYyPbsbDqSgTgFLJ5vDyg788JWwdqA3eZBJs/edit#slide=id.p)
+You can see the slides [here](https://docs.google.com/presentation/d/1tJPzVUgkbMYWag3jn7gPOueHZGgAykXgX_MxC6HFyXs/edit#slide=id.p)
 
 ### Topics
 - Algorithm to check if items in a list are in sorted order
 - Counting how many [inversions] there are in a list
-- Classic iterative [sorting algorithms]: [bubble sort], [selection sort], [insertion sort] 
+- Classic iterative [sorting algorithms]: [bubble sort], [selection sort], [insertion sort]
 
 ### Resources
 - Play with VisuAlgo's [interactive sorting visualizations][VisuAlgo sorting] including bubble, selection, and insertion sort
@@ -85,5 +85,5 @@ You can see the slides [here](https://docs.google.com/presentation/d/1zDfRhO0aYy
 [selection sort with Gypsy folk dance]: https://www.youtube.com/watch?v=0-W8OEwLebQ
 [insertion sort with Romanian folk dance]: https://www.youtube.com/watch?v=EdIKIf9mHk0
 
-[sorting starter code]: https://github.com/Make-School-Courses/CS-2.1-Trees-Sorting/blob/master/Code/sorting_iterative.py
-[sorting unit tests]: https://github.com/Make-School-Courses/CS-2.1-Trees-Sorting/blob/master/Code/sorting_test.py
+[sorting starter code]: https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting/blob/master/Code/sorting_iterative.py
+[sorting unit tests]: https://github.com/Tech-at-DU/CS-2.1-Trees-Sorting/blob/master/Code/sorting_test.py

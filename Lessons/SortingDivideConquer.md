@@ -7,7 +7,7 @@
 
 ### Slides
 
-Slides can be found [here](https://docs.google.com/presentation/d/1LTda1-FQBugh9LWPZyp22YWyD_a7-Xq0MdjYzlQKqvU/edit#slide=id.ga51044badf_0_112)
+Slides can be found [here](https://docs.google.com/presentation/d/14PXnMmyBbbAEFmL_clksOiwXkWFvMCd5bCBmav5UU3g/edit#slide=id.p)
 
 ### Resources
 - Play with VisuAlgo's [interactive sorting visualizations][VisuAlgo sorting] including merge sort

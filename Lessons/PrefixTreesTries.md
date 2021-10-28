@@ -7,7 +7,7 @@
 
 ## Slides
 
-Slides can be found [here](https://docs.google.com/presentation/d/1oWa6cfOwp9ZcBYPANbxouEZ13ksg2uBFQvkbWQ9wRpY/edit#slide=id.ga2a904a8c6_0_63)
+Slides can be found [here](https://docs.google.com/presentation/d/1NlJbtANXulVAfyezzKAeAqJAwdiXn3AElKYbz_yLjV0/edit#slide=id.p)
 
 ### Resources
 - Read Vaidehi Joshi's [BaseCS trie article] with beautiful drawings

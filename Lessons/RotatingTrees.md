@@ -1,5 +1,9 @@
 ## Rotating Binary Search Trees
 
+### Slides
+
+You can see the slides [here](https://docs.google.com/presentation/d/1dNxjecHEiY9uJ2qs7a1nnK_2UZaYBDG5IzOfCwPLHP4/edit#slide=id.p)
+
 ### Topics
 - [Self-balancing binary search trees] with [rotations]: [AVL tree], [splay tree]
 

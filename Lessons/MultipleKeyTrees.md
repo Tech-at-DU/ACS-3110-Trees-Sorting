@@ -6,7 +6,7 @@
 
 ### Slides
 
-Slides can be found [here](https://docs.google.com/presentation/d/1GTO0F3GmgxFHQPE6RKHU2eMGFn9Fd-Qlk_g0EPF7KtA/edit#slide=id.p)
+Slides can be found [here](https://docs.google.com/presentation/d/1vpmn4if8Ao8C8Z0ek7eLNBgGsPo89lBNI-QpKKhGakE/edit#slide=id.p)
 
 ### Resources
 - Read Vaidehi Joshi's [BaseCS B-tree article] with beautiful drawings
