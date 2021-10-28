@@ -20,12 +20,12 @@ Set up your local clone of this course repo on your computer.
   `git clone https://github.com/Tech-at-DU/ACS-3110-Trees-Sorting.git`
 
   - Now navigate into the new folder Git just created:
-  `cd CS-2.1-Trees-Sorting`
+  `cd ACS-3110-Trees-Sorting`
 
-1. [**Create a new empty repo** on GitHub](https://github.com/new) also named `CS-2.1-Trees-Sorting` and **do not** initialize it with a ReadMe. (Creating a *new* repo instead of a *fork* allows you to earn credit towards your GitHub commit streak.)
+1. [**Create a new empty repo** on GitHub](https://github.com/new) also named `ACS-3110-Trees-Sorting` and **do not** initialize it with a ReadMe. (Creating a *new* repo instead of a *fork* allows you to earn credit towards your GitHub commit streak.)
 
 1. **Set the `origin` remote's URL** on your local repo to point to your new repo on GitHub:
-`git remote set-url origin https://github.com/<your-username>/CS-2.1-Trees-Sorting.git`
+`git remote set-url origin https://github.com/<your-username>/ACS-3110-Trees-Sorting.git`
 
 1. **Push your local repo** to your *remote* GitHub repo to link your `master` branch to your `origin` remote:
 `git push -u origin master`
@@ -41,7 +41,7 @@ Connect your local clone of this course repo to the *upstream* repo on GitHub.
 1. Add this course's upstream repo as another *remote* to your local repo with:
 `git remote add upstream https://github.com/Tech-at-DU/ACS-3110-Trees-Sorting.git`
 
-1. Verify that you have two remotes: `origin` (with your username in the URL) and `upstream` (with `Make-School-Courses`):
+1. Verify that you have two remotes: `origin` (with your username in the URL) and `upstream` (with `tech-at-du`):
 `git remote -v`
 
 1. When you want to access new course materials, first be sure you've committed and pushed your recent work (run `git status` to check) and then *pull* from the course's upstream repo with:
