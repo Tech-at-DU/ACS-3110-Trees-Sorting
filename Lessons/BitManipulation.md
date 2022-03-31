@@ -53,5 +53,5 @@ Visit Make School's [Online Academy] to find the [Trees and Mazes] tutorial.
 [magic constant 0x5f3759df]: http://h14s.p5r.org/2012/09/0x5f3759df.html
 [reinventing fast inverse roots]: http://www.bullshitmath.lol/FastRoot.slides.html
 
-[Online Academy]: https://www.makeschool.com/academy
+[Online Academy]: https://bit.ly/tutorial-tweet-generator
 [Trees and Mazes]: http://make.sc/oa-trees-and-mazes
