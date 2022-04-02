@@ -9,6 +9,7 @@ def merge(items1, items2):
     # TODO: Repeat until one list is empty
     # TODO: Find minimum item in both lists and append it to new list
     # TODO: Append remaining items in non-empty list to new list
+
     
 def split_sort_merge(items):
      """Sort given items by splitting list into two approximately equal halves,
@@ -20,6 +21,7 @@ def split_sort_merge(items):
      # TODO: Sort each half using any other sorting algorithm
      # TODO: Merge sorted halves into one list in sorted order
 
+    
 def merge_sort(items):
     """Sort given items by splitting list into two approximately equal halves,
     sorting each recursively, and merging results into a list in sorted order.
