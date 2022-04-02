@@ -1,53 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- UPDATE: Add description, author, og:site_name, og:title, and og:description text for your course. -->
-    <!-- NOTE: Text presented in ALL_CAPS indicate values you should replace. -->
-    <title>CS 2.1 Trees & Sorting</title>
-    <meta name="description" content="Advanced Trees and Sorting Algorithms">
-    <meta name="author" content="Jess Dahmen (jess.dahmen@makeschool.com)">
-    <meta property="og:site_name" content="CS 2.1 Trees & Sorting">
-    <meta property="og:title" content="CS 2.1 Trees & Sorting">
-    <meta property="og:description" content="Advanced Trees and Sorting Algorithms">
-    <!-- END CUSTOMIZATION -->
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport"
-      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <link rel="apple-touch-icon" sizes="500x500"
-      href="https://www.makeschool.com/assets/apple-touch-icon-bac21dc3895855ecf9b4a76e8da48a91fa59db1bc7358d7cd33576b63fac2eab.png">
-    <link rel="icon" type="image/png"
-      href="https://www.makeschool.com/assets/favicon_500x500-010a022696e85dab6be51930d58c18cb7c94bb94fc6d326ece1c78bc2bdd268f.png"
-      sizes="500x500">
-    <link rel="icon" type="image/png"
-      href="https://www.makeschool.com/assets/favicon_50x50-68cece25ffd4ff9e6545769d8a525b9ba532d432318c94e33fca9b96edb8cf6a.png"
-      sizes="50x50">
-    <meta name="keywords" content="makeschool">
-    <meta property="og:type" content="website">
-    <!-- UPDATE: Make sure to update all REPO_NAME values for your course repo in the following object.-->
-    <meta property="og:url" content="https://tech-at-du.github.io/ACS-3110-Trees-Sorting">
-    <meta property="og:image" content="http://tech-at-du.github.io/ACS-3110-Trees-Sorting/Web/logo-icononly.svg">
-    <meta property="og:image:secure_url"
-      content="https://tech-at-du.github.io/ACS-3110-Trees-Sorting/Web/logo-icononly.svg">
-    <meta property="og:image:type" content="image/svg">
-    <meta property="og:image:width" content="250">
-    <meta property="og:image:height" content="250">
-    <meta property="og:image:alt" content="Make School">
-    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-    <link rel="stylesheet" href="Web/style.css">
+    <title>ACS 3110 Trees & Sorting</title>
+    <meta name="description" content="Advanced Trees and Sorting Algorithms">
+    <meta name="author" content="Dani Roxberry (danielle.roxberry@dominican.edu)">
+    <meta property="og:site_name" content="ACS 3110 Trees & Sorting">
+    <meta property="og:title" content="ACS 3110 Trees & Sorting">
+    <meta property="og:description" content="Advanced Trees and Sorting Algorithms">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    <link rel="stylesheet" href="Web/style.css" title="docsify-darklight-theme" type="text/css">
   </head>
   <body>
     <div id="app"></div>
-    <!-- UPDATE: Make sure to update NAME, REPO, and NAMESPACE below-->
     <script>
       window.$docsify = {
-        logo: 'Web/logo-icononly.svg',
-        // Update to Course Name
-        name: 'ACS-3110-Trees-Sorting',
-        // Replace with REPO_NAME
+        logo: '',
+        name: 'ACS 3110: Advanced Trees & Sorting',
         repo: 'tech-at-du/ACS-3110-Trees-Sorting',
-        homepage: 'ReadMe.md',
-        themeColor: '#126893',
+        homepage: 'ReadMe.md', // Defaults to README, but is case sensitive! Adjusting for this repo.
+        themeColor: '#1386C5',
         formatUpdated: '{MM}/{DD} {HH}:{mm}',
         executeScript: true,
         auto2top: true,
@@ -67,21 +42,39 @@
           paths: "auto",
           placeholder: 'Search class content...',
           noData: 'No Results!',
-          depth: 4,
-          hideOtherSidebarContent: false,
-          // Replace with REPO_NAME
-          namespace: 'ACS-3110-Trees-Sorting',
+          depth: 2,
+          hideOtherSidebarContent: true,
+          namespace: 'ACS-3110-Trees-Sorting'
         },
         copyCode: {
           buttonText: '📋 Click to Copy',
           errorText: '',
           successText: '✓'
         },
+        pagination: {
+          previousText: 'Previous Page',
+          nextText: 'Next Page',
+          crossChapter: true,
+          crossChapterText: true
+        },
         'flexible-alerts': {
           style: 'flat'
+        },
+        darklightTheme: {
+          defaultTheme: 'dark',
+          // codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
+          dark: {
+            accent: "#94D4EF",
+            sidebarSublink: "#94D4EF"
+          },
+          light: {
+            accent: "#1386C5",
+            sidebarSublink: "#1386C5"
+          },
         }
       }
     </script>
+    <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
     <script src="//unpkg.com/docsify-themeable"></script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
@@ -89,30 +82,10 @@
     <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
     <script src="//unpkg.com/docsify-copy-code@2"></script>
     <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-csharp.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-css.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-docker.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-diff.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-git.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-go.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-graphql.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-handlebars.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-ini.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-javascript.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-json.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-nginx.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-pug.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-protobuf.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-ruby.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-sass.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-scss.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-sql.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-swift.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-typescript.min.js"></script>
-    <script src="//unpkg.com/prismjs/components/prism-yaml.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
     <script>
       if (typeof navigator.serviceWorker !== 'undefined') {
         navigator.serviceWorker.register('Web/sw.js')
