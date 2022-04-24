@@ -1,4 +1,4 @@
-# CS 2.1: Advanced Trees & Sorting Algorithms
+# ACS 3110: Advanced Trees & Sorting Algorithms
 
 ## Course Description
 
@@ -31,25 +31,24 @@ By the end of this course, students will be able to...
 
 ## Schedule
 
-**Course Dates:** Monday, January 20 – Wednesday, May 12, 2021 (7 weeks)
+**Course Dates:** Monday, January 20 – Wednesday, May 12, 2021<br>
+**Class Times:** Monday, Wednesday, Friday at 4:30pm – 6:20pm
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
-
-Class |             Topics             |                                      Assignments
-:---: | :----------------------------: | :------------------------------------------------------------------------------------:
-  1   | [Iterative Sorting Algorithms]
-  2   | [Divide-and-Conquer Recursion]
-  3   | [Divide-and-Conquer Recursion] |   Quiz 1 released, Due: [Iterative Sorting Challenges](Assignments/IterativeSort.md)
-  4   | [Recursive Sorting Algorithms]
-  5   |  [Integer Sorting Algorithms]  |            Due:[Recursive Sorting Challenges](Assignments/RecursiveSort.md)
-  6   |            Lab Day             |                                    Quiz 2 released
-  7   |   [Prefix Trees (aka Tries)]   |             Due: [Integer Sorting Challenges](Assignments/IntegerSort.md)
-  8   | [Prefix Trees (aka Tries)] II
-  9   | [Rotating Binary Search Trees] |                                    Quiz 3 released
- 10   |  [Multiple Key Search Trees]   |                              Due: Prefix Tree Challenges
- 11   |   [Priority Queues & Heaps]
- 12   |         Special Topics         |                                  Due: Heaps Challenge
- 13   |            Lab Day             | Due: [Trees Project](Assignments/TreesProject) & [Article](Assignments/TechArticle.md)
+Class |             Topics
+:---: | :----------------------------:
+  1   | [Iterative Sorting Algorithms] |
+  2   | [Divide-and-Conquer Recursion] |
+  3   | [Divide-and-Conquer Recursion] |
+  4   | [Recursive Sorting Algorithms] |
+  5   |  [Integer Sorting Algorithms]  |
+  6   |            Lab Day             |
+  7   |   [Prefix Trees (aka Tries)]   |
+  8   | [Prefix Trees (aka Tries)] II  |
+  9   | [Rotating Binary Search Trees] |
+ 10   |  [Multiple Key Search Trees]   |
+ 11   |   [Priority Queues & Heaps]    |
+ 12   |            Lab Day             |
+ 13   | [Trees Project] Presentations  |
 
 ## Class Assignments
 
@@ -76,7 +75,30 @@ To pass this course, students must meet the following requirements:
   - Binary Heaps
 
 - Pass all three conceptual quizzes with a 70% or higher
+
 - Complete the technical article OR advanced trees project with a 70% or higher
+
 - If you are not passing any assignment you have a week to fix any errors and resubmit
+
 - You are allowed to submit assignments after the due date with instructor permission
 - You are allowed to drop one coding challenge or quiz
+
+[1]: Lessons/SortingIterative.md#Challenges
+[2]: Lessons/SortingDivideConquer.md#Challenges
+[3]: Lessons/SortingRecursive.md#Challenges
+[4]: Lessons/SortingInteger.md#Challenges
+[binary heap challenges]: Lessons/Heaps.md#Challenges
+[divide-and-conquer recursion]: Lessons/SortingDivideConquer.md
+[due]: #Deliverable-Schedule
+[integer sorting algorithms]: Lessons/SortingInteger.md
+[iterative sorting algorithms]: Lessons/SortingIterative.md
+[multiple key search trees]: Lessons/MultipleKeyTrees.md
+[prefix tree challenges]: Lessons/PrefixTreesTries.md#Challenges
+[prefix trees (aka tries)]: Lessons/PrefixTreesTries.md
+[priority queues & heaps]: Lessons/Heaps.md
+[quiz]: https://make.sc/cs21-quiz-study-guides
+[quiz 1]: Lessons/Quiz1.md
+[recursive sorting algorithms]: Lessons/SortingRecursive.md
+[rotating binary search trees]: Lessons/RotatingTrees.md
+[sorting algorithms comparison]: Lessons/SortingComparison.md
+[trees project]: Projects/TreesProject.md

@@ -1,4 +1,5 @@
 - **[Syllabus](ReadMe.md)**
+- [Study Guides](StudyGuides.md)
 - **Lessons**
 
   - [Iterative Sorting Algorithms](Lessons/SortingIterative.md)

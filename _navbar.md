@@ -1,1 +1,2 @@
 - **[Syllabus](README.md)**
+- [Study Guides](StudyGuides.md)
