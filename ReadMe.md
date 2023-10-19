@@ -61,18 +61,19 @@ Your Gradescope login is your Dominican email, and your password can be changed 
 
 ## Evaluation
 
-To pass this course, students must meet the following requirements:
+**To pass this course, students must meet the following requirements**:
 
-- Complete the required coding challenges (rubrics provided on assignment pages). You will need to pass with an average score of 2 or higher
-  - Iterative Sort
-  - Recursive Sort
-  - Integer Sort
-  - Prefix Trees
-  - Binary Heaps
-- Pass all three conceptual quizzes with a 70% or higher
-- Complete the technical article OR advanced trees project with a 70% or higher
-- Participate in online class sessions and asyncronous lab time
-- Make up all classwork from all absences
+- Complete each assignment below with a rubric score of `2` or higher.
+  - Iterative Sort Challenges
+  - Recursive Sort Challenges
+  - Integer Sort Challenges
+  - Prefix Trees Lab
+  - AVL Trees Lab
+- Pass the Midterm Check In Assessment with a 70% or higher.
+- Complete the Technical Article AND Advanced Trees Project with a 70% or higher.
+- All deliverables above must be turned in on Gradescope.
+- Participate in online class sessions and asyncronous lab time.
+- Make up all classwork from all absences. 
 
 [1]: Lessons/SortingIterative.md#Challenges
 [2]: Lessons/SortingDivideConquer.md#Challenges
