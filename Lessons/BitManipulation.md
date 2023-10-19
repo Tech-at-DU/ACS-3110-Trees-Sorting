@@ -13,7 +13,7 @@
   - [Breadth-first search]: level-order traversal
 
 ### Resources
-- Review Make School's [bit manipulation slides] as well as [number bases resources] and [tree traversal resources]
+<!-- - Review Make School's [bit manipulation slides] as well as [number bases resources] and [tree traversal resources] -->
 - Read Vaidehi Joshi's [article on binary][BaseCS binary] with beautiful drawings and excellent examples
 - Play with Stephan Brumme's [interactive bit manipulator] and review his [bit twiddling collection] with code explanations and performance ratings
 - Watch HackerRank's [bit manipulation video] and [lonely integer problem video] (*spoiler alert:* contains solution code)
@@ -24,7 +24,7 @@
 - Read Christian Hansen's thorough analysis of the [magic constant 0x5f3759df]
 
 ### Project
-Visit Make School's [Online Academy] to find the [Trees and Mazes] tutorial.
+Visit Make School's tutorials secgtion to find the one titled [Trees and Mazes].
 - Page 1: Generating a Maze with DFS
 - Page 2: Solving the Maze with DFS and BFS
 
