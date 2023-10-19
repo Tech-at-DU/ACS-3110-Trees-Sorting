@@ -56,3 +56,15 @@ _8 out of 12 points total is considered passing._
 - 1 point for citing sources of all borrowed pseudocode, code, diagrams, and images
 - 1 point for publishing article online, +1 bonus point for publishing in a Medium publication
 - –12 points for plagiarising significant portions of article text, code, diagrams, or images. This will be dealt with according to Dominican University's academic honesty and integrity policy
+
+## Examples: Prior Projects / Article Submissions
+
+Check out these example projects from ACS alumni: 
+
+1. **[GSPuniani/prefix-tree-pokedex](https://github.com/GSPuniani/prefix-tree-pokedex)**: [Reconstructing the Idea of the Pokedex](https://aldrinbrillante.medium.com/test-155f9d283399)
+2. **[Aetrix27/car-model-search](https://github.com/Aetrix27/car-model-search)**: [Using Tries for Efficient Search](https://medium.com/@davedogg323/using-tries-for-efficient-search-8565593fa73c)
+3. **[davidc360/autocomplete-demo](https://github.com/davidc360/autocomplete-demo)**: [Search Suggestions With The Entire English Dictionary](https://medium.com/@davidyuxin/search-suggestions-with-the-entire-english-dictionary-7d30118757ca)
+4. **[ahmed-shahrour/trie-trending-products](https://github.com/ahmed-shahrour/trie-trending-products)**: [Trending Products Prefix Tree (based on a take-home interview)](https://medium.com/@ahmed.shahrour/trending-products-prefix-tree-d79a54adf9f7)
+5. **[Panda64/Word-Hunt](https://github.com/Panda64/Word-Hunt)**: [Word Hunt w/ Prefix Trees](https://docs.google.com/document/d/1hJIcbw9XJwlJQPrjPoeSgWjAqazbT9GHixsdO30lKgw/edit)
+6. **[benchan777/recipe-site-autocomplete](https://github.com/benchan777/recipe-site-autocomplete)**: [Original Design and Reason For Refactoring With a Prefix Tree](https://benchan777.medium.com/original-design-and-reason-for-refactoring-with-a-prefix-trie-tree-bde4e67ef51b)
+
