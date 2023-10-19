@@ -1,4 +1,4 @@
-# ACS 3110: Advanced Trees & Sorting Algorithms
+# 🌳 ACS 3110: Advanced Trees & Sorting Algorithms
 
 ## Course Description
 
