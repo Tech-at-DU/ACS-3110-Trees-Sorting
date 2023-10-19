@@ -39,16 +39,17 @@ Class |             Topics
   1   | [Iterative Sorting Algorithms] |
   2   | [Divide-and-Conquer Recursion] |
   3   | [Divide-and-Conquer Recursion] |
+   ~   |            Lab Day             |
   4   | [Recursive Sorting Algorithms] |
   5   |  [Integer Sorting Algorithms]  |
-  6   |            Lab Day             |
-  7   |   [Prefix Trees (aka Tries)]   |
-  8   | [Prefix Trees (aka Tries)] II  |
-  9   | [Rotating Binary Search Trees] |
- 10   |  [Multiple Key Search Trees]   |
- 11   |   [Priority Queues & Heaps]    |
- 12   |            Lab Day             |
- 13   | [Trees Project] Presentations  |
+  ~ |            Lab Day             |
+  6   |   [Prefix Trees (aka Tries)]   |
+  7   | [Prefix Trees (aka Tries)] II  |
+  8   | [Rotating Binary Search Trees] |
+ 9   |  [Multiple Key Search Trees]   |
+ 10   |   [Priority Queues & Heaps]    |
+~ |            Lab Day             |
+   11   | [Trees Project] Presentations  |
 
 ## Class Assignments
 
@@ -62,26 +63,16 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course, students must meet the following requirements:
 
-- Actively participate in class and abide by the attendance policy
-- No more than two unexcused absences ("no-call-no-shows")
-- No more than four excused absences (communicated in advance)
-- Make up all classwork from all absences
 - Complete the required coding challenges (rubrics provided on assignment pages). You will need to pass with an average score of 2 or higher
-
   - Iterative Sort
   - Recursive Sort
   - Integer Sort
   - Prefix Trees
   - Binary Heaps
-
 - Pass all three conceptual quizzes with a 70% or higher
-
 - Complete the technical article OR advanced trees project with a 70% or higher
-
-- If you are not passing any assignment you have a week to fix any errors and resubmit
-
-- You are allowed to submit assignments after the due date with instructor permission
-- You are allowed to drop one coding challenge or quiz
+- Participate in online class sessions and asyncronous lab time
+- Make up all classwork from all absences
 
 [1]: Lessons/SortingIterative.md#Challenges
 [2]: Lessons/SortingDivideConquer.md#Challenges
