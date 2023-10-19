@@ -57,7 +57,7 @@ We will be using [Gradescope](gradescope.com), which allows us to provide fast a
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
-Your Gradescope login is your Make School email, and your password can be changed at <https://gradescope.com/reset_password>. The same link can be used if you need to set your password for the first time.
+Your Gradescope login is your Dominican email, and your password can be changed at <https://gradescope.com/reset_password>. The same link can be used if you need to set your password for the first time.
 
 ## Evaluation
 
