@@ -1,1 +1,0 @@
-The technical article project info will be posted soon!
