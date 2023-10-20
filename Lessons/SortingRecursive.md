@@ -17,7 +17,6 @@ Slides can be found [here](https://docs.google.com/presentation/d/1OX6-ZACyMJJgD
 - Play with USF's [interactive sorting animations][USF sorting] including quick sort
 - Read Vaidehi Joshi's articles on [quick sort, part 1: how it works][BaseCS quick sort 1] and [part 2: choosing a pivot and complexity analysis][BaseCS quick sort 2] with beautiful drawings and excellent analysis
 - Read Sebastian's answer to this [quick sort partitioning] question on Computer Science Stack Exchange
-- Review Make School's [recursive algorithm analysis slides]
 - Watch Zutopedia's [quick sort vs bubble sort robot video], [merge sort vs quick sort robot video]
 - Watch Harvard's [quick sort video] or Computerphile's [quick sort cards video]
 - Watch HackerRank's [quick sort tutorial video] (*spoiler alert:* contains solution code)

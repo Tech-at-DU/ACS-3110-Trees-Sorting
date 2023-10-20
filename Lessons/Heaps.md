@@ -1,13 +1,13 @@
 ## Priority Queues & Heaps
 
 ### Topics
+
 - [Priority queue] abstract data type, implementations: unsorted list, sorted list, [bucket queue]
 - [Heap] data structure, [binary heap] representations: binary tree, array
 - [Heap sort], compare to [selection sort], [insertion sort] and [tree sort]
 
 ### Resources
-- Review Make School's [priority queue and heap slides][heap slides]
-- Watch Make School's [heap video lecture]
+
 - Watch HackerRank's [heap video]
 - Watch this cute robot [heap sort animation video]
 - Play with VisuAlgo's [interactive heap visualization][VisuAlgo heap]
@@ -16,6 +16,7 @@
 - Read about how [sorting algorithms can be generalized with different priority queue implementations][priority queue sorting]
 
 ### Challenges
+
 - Implement `BinaryMinHeap` class using dynamic array with the following instance methods using [binary heap starter code]:
     - `is_empty` - check if the heap is empty
     - `size` - return the number of items in the heap
@@ -38,6 +39,7 @@
 - Annotate methods with complexity analysis of running time and space (memory)
 
 ### Stretch Challenges
+
 - Implement stack with priority queue (Hint: this is simple if you use priority values cleverly)
 - Implement double-ended priority queue with binary search tree (allow access to min and max item)
 - Create a generic `BinaryHeap` class with an initialization option to choose min or max heap order

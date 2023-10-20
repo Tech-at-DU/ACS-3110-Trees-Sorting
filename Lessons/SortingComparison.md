@@ -43,11 +43,6 @@
 - Download Timo Bingmann's [The Sound of Sorting] software to hear and visualize sorting algorithms
 - Read Tim Peters's (a Python core language developer) [proposal for a new sorting algorithm][Tim sort proposal] now known as *Tim sort* – he effectively argued its advantages over the existing sorting algorithm and compared performance with benchmarks
 
-<!--
-### Optional Project
-- [Sorting algorithms project] with real-world data on Make School's Online Academy
--->
-
 
 [sorting algorithm]: https://en.wikipedia.org/wiki/Sorting_algorithm
 [stable]: https://en.wikipedia.org/wiki/Sorting_algorithm#Stability

@@ -5,10 +5,11 @@
 You can see the slides [here](https://docs.google.com/presentation/d/1dNxjecHEiY9uJ2qs7a1nnK_2UZaYBDG5IzOfCwPLHP4/edit#slide=id.p)
 
 ### Topics
+
 - [Self-balancing binary search trees] with [rotations]: [AVL tree], [splay tree]
 
 ### Resources
-- Review Make School's [binary search tree resources]
+
 - Read Vaidehi Joshi's [AVL tree article][BaseCS AVL tree] with beautiful drawings
 - Play with VisuAlgo's [interactive AVL tree visualization][VisuAlgo bst] to follow rotations step-by-step
 - Watch MIT's [AVL tree video lecture] to learn how maximum tree height is related to the golden ratio

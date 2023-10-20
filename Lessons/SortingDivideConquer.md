@@ -19,7 +19,6 @@
 - Watch Toptal's [sorting animations] to see how algorithms compare based on input and read the discussion section
 - Watch dancers perform [merge sort with German folk dance]
 - Watch videos to observe patterns: [9 sorting algorithms], [15 sorting algorithms], [23 sorting algorithms]
-- Review Make School's [algorithm analysis slides] for a running time comparison of merge sort and bubble sort
 
 ## Challenges
 

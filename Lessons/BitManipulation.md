@@ -54,4 +54,4 @@ Visit Make School's tutorials secgtion to find the one titled [Trees and Mazes].
 [reinventing fast inverse roots]: http://www.bullshitmath.lol/FastRoot.slides.html
 
 [Online Academy]: https://bit.ly/tutorial-tweet-generator
-[Trees and Mazes]: http://make.sc/oa-trees-and-mazes
+[Trees and Mazes]: https://github.com/tech-at-du/trees-and-mazes
