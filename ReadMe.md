@@ -44,7 +44,7 @@ Class |             Topics
   5   |  [Integer Sorting Algorithms]  |
   ~ |            Lab Day             |
   6   |   [Prefix Trees (aka Tries)]   |
-  7   | [Prefix Trees (aka Tries)] II  |
+  7   | [Prefix Trees (aka Tries) II]  |
   8   | [Rotating Binary Search Trees] |
  9   |  [Multiple Key Search Trees]   |
  10   |   [Priority Queues & Heaps]    |
@@ -73,7 +73,7 @@ Your Gradescope login is your Dominican email, and your password can be changed 
 - Complete the Technical Article AND Advanced Trees Project with a 70% or higher.
 - All deliverables above must be turned in on Gradescope.
 - Participate in online class sessions and asyncronous lab time.
-- Make up all classwork from all absences. 
+- Make up all classwork from all absences.
 
 [1]: Lessons/SortingIterative.md#Challenges
 [2]: Lessons/SortingDivideConquer.md#Challenges
@@ -87,6 +87,7 @@ Your Gradescope login is your Dominican email, and your password can be changed 
 [multiple key search trees]: Lessons/MultipleKeyTrees.md
 [prefix tree challenges]: Lessons/PrefixTreesTries.md#Challenges
 [prefix trees (aka tries)]: Lessons/PrefixTreesTries.md
+[prefix trees (aka tries) II]: Lessons/Tries.md
 [priority queues & heaps]: Lessons/Heaps.md
 [quiz]: https://make.sc/cs21-quiz-study-guides
 [quiz 1]: Lessons/Quiz1.md
