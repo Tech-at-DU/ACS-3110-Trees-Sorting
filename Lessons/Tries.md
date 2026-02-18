@@ -148,7 +148,6 @@ If finished early, try the stretch: implement `delete(string)`.
 - **Students**: Share progress on implementation. Ask questions to get unblocked.
 - **Instructor**: Review key solutions.
 
-<!--
 ### Solutions for Tries Challenges
 
 _These solutions are basic – explain line-by-line in class._
@@ -256,7 +255,6 @@ class PrefixTree:
         self._traverse(self.root, "", visit)  # Traverse whole tree
         return all_strings  # Return list
 ```
--->
 
 ## 📚 Resources & Credits
 
