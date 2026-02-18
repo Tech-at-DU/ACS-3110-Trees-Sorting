@@ -1,4 +1,4 @@
-# Rotating Binary Search Trees
+# Rotating Binary Search Trees [Slides](https://docs.google.com/presentation/d/1cN8B7AT30M_kaDgBa4UKt36OqhCdEVwjI0jOYtXxrP8/edit?slide=id.p1#slide=id.p1)
 
 ## Goal  
 Every balanced tree you will ever use in production (Java `TreeMap`, C++ `std::map`, database B-tree indexes, Python’s sorted containers) rests on one primitive: the tree rotation. Today you learn exactly how rotations keep BST height O(log n) no matter the insertion order — turning the worst-case nightmare of a linked-list tree into guaranteed logarithmic performance.
